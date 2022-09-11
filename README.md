@@ -45,3 +45,6 @@ python manage.py createsuperuser
 
 # Go to admin view by  /admin
 localhost:8000/admin
+
+
+# Setting up Views
