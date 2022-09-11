@@ -28,7 +28,13 @@ pipenv shell
 
 
 # Start a Django project
-django-admin startproject try_django
+django-admin startproject BasicDjangoApp
 
 # Run project 
+Navigate to BasicDjangoApp
+
+### Run command
 python manage.py runserver
+
+# Run Migration
+python manage.py migrate
