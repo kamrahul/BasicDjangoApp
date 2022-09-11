@@ -47,4 +47,6 @@ python manage.py createsuperuser
 localhost:8000/admin
 
 
-# Setting up Views
+# Views in Django
+
+## Create file called views.py in 
